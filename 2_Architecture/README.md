@@ -25,7 +25,9 @@ Behavioral chart appears how the framework works ‘in motion’, that's how the
 ![image](https://user-images.githubusercontent.com/89735311/132342487-95b75463-5c25-4bc9-9c6f-adc1e9f45dbf.png)
 
 # structural diagram 
-## Components Diagram
+## Workflow and Components Diagram
+![image](https://user-images.githubusercontent.com/89735311/132520893-4c3e46b3-6216-4068-b864-46ee251eaaa5.png)
+
 
 ![image](https://user-images.githubusercontent.com/89735311/132344908-1dfe655c-8212-43c8-98bd-5f49e9dfbcbe.png)
 
