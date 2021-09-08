@@ -36,4 +36,4 @@ This project will help the organization or school to manage the student or emplo
 1. Futureskill Platform
 2. Tutorial Point 
 3. Youtube Videos
-4. Github Learning Lap
+4. Github Learning Lab
