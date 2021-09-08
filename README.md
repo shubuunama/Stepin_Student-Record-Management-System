@@ -11,3 +11,4 @@ This project will help the organization or school to manage the student or emplo
 [![Git Inspector](https://github.com/shubuunama/Stepin_Student-Record-Management-System/actions/workflows/Git_Inspector.yml/badge.svg)](https://github.com/shubuunama/Stepin_Student-Record-Management-System/actions/workflows/Git_Inspector.yml)
 
 [![Cpp check](https://github.com/shubuunama/Stepin_Student-Record-Management-System/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/shubuunama/Stepin_Student-Record-Management-System/actions/workflows/cppcheck.yml)
+[![Static Code Analysis](https://github.com/shubuunama/Stepin_Student-Record-Management-System/actions/workflows/static.yml/badge.svg)](https://github.com/shubuunama/Stepin_Student-Record-Management-System/actions/workflows/static.yml)
