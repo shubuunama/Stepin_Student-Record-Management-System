@@ -12,3 +12,4 @@ This project will help the organization or school to manage the student or emplo
 
 [![Cpp check](https://github.com/shubuunama/Stepin_Student-Record-Management-System/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/shubuunama/Stepin_Student-Record-Management-System/actions/workflows/cppcheck.yml)
 [![Static Code Analysis](https://github.com/shubuunama/Stepin_Student-Record-Management-System/actions/workflows/static.yml/badge.svg)](https://github.com/shubuunama/Stepin_Student-Record-Management-System/actions/workflows/static.yml)
+[![Unit Testing](https://github.com/shubuunama/Stepin_Student-Record-Management-System/actions/workflows/unit_test.yml/badge.svg)](https://github.com/shubuunama/Stepin_Student-Record-Management-System/actions/workflows/unit_test.yml)
